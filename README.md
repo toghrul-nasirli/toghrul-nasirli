@@ -1,11 +1,11 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=toghrul-nasirli&count_private=true&theme=midnight-purple&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toghrul-nasirli&langs_count=5&theme=midnight-purple)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=toghrul-nasirli&count_private=true&theme=midnight-purple&showicons=true&hide_border=true)]()
+
 <!--
 **toghrul-nasirli/toghrul-nasirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Nasirli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toghrul-nasirli&show_icons=true&theme=midnight-purple&hide_border=true)
 Here are some ideas to get you started:
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toghrul-nasirli&langs_count=5&theme=midnight-purple)]()
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
