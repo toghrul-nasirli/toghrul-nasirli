@@ -1,8 +1,8 @@
 <h3>Hi 👋</h3>
 <a href="https://github.com/toghrul-nasirli/">
     <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=toghrul-nasirli&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrul-nasirli&layout=compact&hide_border=true&title_color=fff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515&custom_title=Statistics">
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=toghrul-nasirli&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrul-nasirli&layout=compact&hide_border=true&title_color=fff&icon_color=58a6ff&text_color=9f9f9f&bg_color=151515&custom_title=Statistics">
         <div>
             <h3 align="left">Connect with me:</h3>
             <p align="left">
