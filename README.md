@@ -9,5 +9,6 @@
             <a href="https://stackoverflow.com/users/10568563/nasirli01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14307167/karimovfarda" height="30" width="40" /></a>
             <a href="https://www.facebook.com/theNasirli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferda.kerimov.9/" height="30" width="40" /></a>
         </p>
+        ![snake gif](https://github.com/toghrul-nasirli/toghrul-nasirli/blob/output/github-contribution-grid-snake.gif)
     </div>
 </a>
