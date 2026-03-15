@@ -17,7 +17,7 @@
 
 ---
 
-## What I Work With Mainly
+## What I work with mainly
 
 <div align="center">
 
