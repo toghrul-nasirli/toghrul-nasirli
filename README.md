@@ -36,7 +36,7 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzQzcgMyAzIDQuOCAzIDd2MTBjMCAyLjIgNCA0IDkgNHM5LTEuOCA5LTRWN2MwLTIuMi00LTQtOS00em0wIDJjNC4xIDAgNyAxLjUgNyAycy0yLjkgMi03IDItNy0xLjUtNy0yIDIuOS0yIDctMnptNyA1LjNWMTdjMCAuNS0yLjkgMi03IDJzLTctMS41LTctMnYtNi43YzEuNSAxLjEgNC4xIDEuNyA3IDEuN3M1LjUtLjYgNy0xLjd6bTAtNC42VjExYzAgLjUtMi45IDItNyAycy03LTEuNS03LTJWNS43QzYuNSA2LjggOS4xIDcgMTIgN3M1LjUtLjIgNy0xLjN6Ii8+PC9zdmc+)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
